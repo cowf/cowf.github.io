@@ -5,11 +5,11 @@
 # Site
 title: Abstrely
 subtitle: ''
-description: ''
+description: 记录生活中的点点滴滴
 keywords:
 author: cowf
 language: zh-CN
-timezone: ''
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
